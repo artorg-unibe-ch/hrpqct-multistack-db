@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Poncioni"
+  given-names: "Simone"
+  orcid: "https://orcid.org/0009-0006-2652-4613"
+title: "Sex- and site-specific reference data for size-invariant properties using multi-stack HR-pQCT"
+version: 1.0.0
+doi: 10.5281/zenodo.16882057
+date-released: 2026-04-20
+url: "https://github.com/artorg-unibe-ch/hrpqct-multistack-db"
