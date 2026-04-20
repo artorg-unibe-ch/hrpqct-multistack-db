@@ -1,0 +1,47 @@
+# Font Properties
+font.family: sans-serif
+font.sans-serif: Outfit, Cabin
+mathtext.fontset: stix
+font.size: 12
+
+# Figure properties
+figure.figsize: 5, 5
+
+# Axes properties
+axes.titlesize: 16
+axes.labelsize: 12
+axes.facecolor: white
+axes.spines.top: True
+axes.spines.right: True
+axes.spines.left: True
+axes.spines.bottom: True
+axes.linewidth: 2
+axes.labelpad: 10
+
+# Tick properties
+# x-axis
+xtick.color: grey
+xtick.top: True
+xtick.direction: in
+xtick.major.size: 7
+xtick.major.width: 1
+xtick.minor.size: 5
+xtick.minor.width: 2
+
+# y-axis
+ytick.color: grey
+ytick.right: True
+ytick.direction: in
+ytick.major.size: 7
+ytick.major.width: 1
+ytick.minor.size: 5
+ytick.minor.width: 1
+
+# Lines properties
+lines.linewidth: 3
+
+# Legend properties
+legend.fontsize: 12
+legend.loc: upper left
+legend.framealpha: 1
+legend.frameon: False

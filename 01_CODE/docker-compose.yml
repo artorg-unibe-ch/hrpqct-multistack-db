@@ -1,0 +1,16 @@
+services:
+  hrpqct:
+    container_name: hrpqct_database_pdfgen
+    user: app
+    build: .
+    volumes:
+      - ../00_DB:/app/00_DB
+      - ../02_OUTPUT:/app/02_OUTPUT
+    deploy:
+      resources:
+        limits:
+          cpus: '2'
+          memory: 512M
+        reservations:
+          cpus: '1'
+          memory: 256M
