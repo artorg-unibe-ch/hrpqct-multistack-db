@@ -8,6 +8,8 @@ Simone Poncioni<sup>a,b</sup>, Dominique Luscher<sup>a</sup>, Michael Indermaur<
 
 This repository contains the analysis and processing code supporting the findings reported in this paper.
 
+[![DOI](https://zenodo.org/badge/1038566438.svg)](https://doi.org/10.5281/zenodo.16882057)
+
 ## Abstract
 
 High-resolution peripheral quantitative computed tomography (HR-pQCT) is emerging as a promising evolution to DXA for longitudinal assessment of bone properties and strength estimation beyond femoral neck aBMD, as it provides detailed 3D representation and separate quantification of trabecular and cortical compartments.
